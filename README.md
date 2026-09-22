@@ -1,5 +1,5 @@
 # Predicting-Sepsis-Before-It-Strikes-A-Nurse-Led-
-Abstract draft (poora project cover karte hue — dataset, hybrid architecture, results, clinical trade-off):
+
 
 Background: Sepsis remains a leading cause of preventable mortality in intensive care units, and early detection significantly improves patient outcomes. Existing early-warning systems often rely on simple scoring rules that may miss complex, evolving physiological patterns.
 
